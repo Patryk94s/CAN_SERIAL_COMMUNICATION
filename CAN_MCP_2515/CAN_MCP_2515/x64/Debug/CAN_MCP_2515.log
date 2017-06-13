@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  CAN_MCP_2515.vcxproj -> C:\Users\Patryk\Documents\Visual Studio 2015\Projects\CAN_MCP_2515\x64\Debug\CAN_MCP_2515.exe
+  CAN_MCP_2515.vcxproj -> C:\Users\Patryk\Documents\Visual Studio 2015\Projects\CAN_MCP_2515\x64\Debug\CAN_MCP_2515.pdb (Partial PDB)
